@@ -3,6 +3,7 @@
 ## Date/Time
 
 Prelims: October 26, 2024 12pm
+
 Finals: October 26, 2024, Third Band Break, Evening Dance
 
 ## Format
@@ -32,6 +33,7 @@ Should happen around 10 minutes before the competition begins.
     1. This step can be skipped for the first partnership if it is pre-randomized
 4. Competitors be led by volunteers a place on the dance floor and dance for the allotted time
    1. Volunteers will have to assist in floorcraft
+   2. Volunteers will lead the currently out followers to a safe spot in the corner
 5. Competitors will be led by volunteers back to the line in the order that there were just in
 6. Repeat steps 2-4 for each dance in the rest of the heat
 7. Competitors exit 
@@ -52,14 +54,13 @@ Should happen around 5 minutes before the competition begins.
    1. This includes the "no words" rule when dancing spotlight
 
 #### Format
-1. Lead competitors onto the dance floor for their all-skate.
-2. Competitors take a step back except for the competitor(s) who will have the first spotlight.
+1. Competitors take a step back except for the competitor(s) who will have the first spotlight.
    1. Spotlighted couple will start separate
-3. The spotlighted competitor will dance their spotlight.
-4. The spotlighted competitor will step back, and the next spotlighted competitor will step forward.
-5. Repeat steps 3-4 for all competitors.
-6. Final all-skate.
-7. Competitors are lined back up for judging.
+2. The spotlighted competitor will dance their spotlight.
+3. The spotlighted competitor will step back, and the next spotlighted competitor will step forward.
+4. Repeat steps 3-4 for all competitors.
+5. Final all-skate.
+6. Competitors are lined back up for judging.
    1. MC will go behind each couple and the crowd will cheer (MC should tell the crowd to cheer for only one couple)
    2. Using an app or machine, record the loudness of the crowd
       1. If need be, and time allows, MC can reduce the number of competitors to the last 2-3
@@ -80,12 +81,12 @@ Should happen around 5 minutes before the competition begins.
 **Follow Judges**
 - Aleksandr Valuiskikh
 - Dina Waluyo
-- Joelle White
+- Joelle White (Will receive Sunday day pass in exchange)
 
 **Lead Judges**
 - Alyssa Beard
 - Michel Mazerolle
-- Phil Gau
+- Phil Gau (TBC)
 
 ### DJs
 - Prelims: Felix Sabourin
@@ -93,7 +94,7 @@ Should happen around 5 minutes before the competition begins.
 
 #### Music Notes
 - Prelims: Prepare 4 songs per heat (2 midtempo, 2 uptempo), ~1 minute 20 seconds per song
-- Finals: Prepare 2 all-skate songs, and 1 song per spotlight (5-6 couples). Tempo should be around 170-180bpm, style should be swing big band bangers. 2 minutes per spotlight, 1 minute 30 seconds per all-skate.
+- Finals: Prepare 1 all-skate songs, and 1 song per spotlight (5-6 couples). Tempo should be around 170-180bpm, style should be swing big band bangers. 2 minutes per spotlight, 1 minute 30 seconds per all-skate.
 
 ### MC
 - TBD
